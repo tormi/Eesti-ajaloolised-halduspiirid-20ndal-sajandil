@@ -1,2 +1,47 @@
-Eesti-ajaloolised-halduspiirid-20ndal-sajandil
-==============================================
+#Eesti ajaloolised halduspiirid 20ndal sajandil
+
+Mitme Tartu Ülikooli ja Avatud Eesti Fondi projekti tulemus, valminud 1999. aastal.
+
+Allikas: https://archive.org/details/HistoricalAdministrativeBordersOfEstonia
+
+Litsents: Creative Commons license: CC0 1.0 Universal
+
+#Eesti administratiivpiiride muutused 20. sajandil
+
+##Kubermang - maakond - vald enne 1920.a.
+
+Sajandi vahetusel jagunes praeguse Eesti Vabariigi territoorium kahe kubermangu vahel - Eestimaa, mis omakorda olid jagatud neljaks maakonnaks: Lääne, Harju, Järva ja Viru ning Liivimaa, mis jagunes Saare, Pärnu, Viljandi, Tartu, Võru maakonnaks , Valga linn kuulus Valga maakonda, lõunapoolne osa praegusest Abja vallast kuulus Valmiera maakonda (kahe viimase maakonna ülejäänud tolleaegne territoorium jäi praeguse Läti Vabariigi territooriumile). Tartu rahu järgselt Eesti Vabariigile saadud territoorium kuulus sajandi vahetusel vastavalt Narva jõe tagune ala Peterburi kubermangu ning praegusel hetkel vaidlusalusele territooriumile jääv Setumaa ning idapoolne osa praegusest Mikitamäe, Värska ja Meremäe vallast kuulusid Pihkva kubermangu. Eestimaa (1816) ja Liivimaa (1819) talupoegade seaduse järgi olid maakonnad jaotatud territoriaalseteks talupoegade ühendusteks - valdadeks, neid oli üle tuhande. 1891-1893. a. oli neid liitmise tagajärjel alla 400.
+
+1917 aastast liideti Saaremaa, Pärnu, Viljandi, Tartu, Võru maakonnad Eestimaa kubermanguga ja lisaks talumaadele kuulusid valdadesse ka mõisamaad. Eesti Töörahva Kommuuni ajal eksisteeris lühikest aega (1917. a. detsembrist - 1918. a. jaanuarini) Narva maakond (lisaks Narva linnale kuulus sinna ka idapoolne osa Virumaast).
+
+##Maakond - vald 1920. - 1944.a.
+
+1920 aastal moodustas Eesti Vabariigi valitsus lisaks olemasolevatele Harju, Järva, Lääne, Pärnu, Saare, Tartu, Viljandi, Viru ja Võru maakondadele Valga maakonna ja 2. veebruaril 1920. aastal sõlmitud Tartu rahu tagajärjel saadud territooriumist Petseri maakonna ning Narva jõe tagused alad (tollased Narva, Kose ja Skjartina vallad) liideti Viru maakonnaga.
+
+11 maakonda jagunes 365ks vallaks, millede piirid otsustati lõplikult 1922. aasta rahvaloenduseks. Uued suuremad muutused piirides tehti 1925. aastal. 1926st - 1938. aastani muudeti Vabariigi valitsuse otsustega valdade piire vähesel määral igal aastal. 1938.a. valdade liitmise ja piiride muutmise seaduse vastuvõtmise järel vähenes valdade arv 365lt 248ni. Selle seadusega kehtestatud administratiivne jaotus kehtis kuni 1945.aastani. 1939.a. rahvaloenduse ajal oli seega 11 maakonda ja 248 valda.
+
+##Kihelkond kuni 1925.a.
+
+Kihelkond oli Muinas-Eestis halduslik-territoriaalne üksus ja E.Tarveli järgi mitte üksnes halduslik põhiühik, vaid veel rohkemgi - suveräänne riiklik moodustis oma rahvusvaheliste suhete ja välispoliitikani välja. 13. sajandil jagati enamik muistseid kihelkondi kirikukihelkondadeks. Nad kaotasid haldusühiku tähenduse ja kujunesid kirikuringkonnaks, maakoguduse alaks, inimeste kirikutesse kuuluvuse järgi, ühe vaimuliku ametipiirkond. 1870 - 1917 oli kihelkond Liivimaa kubermangus kohalikuks omavalitsusüksuseks (kihelkonnakonvent), see jaotus võeti aluseks ka kihelkonnakohtute ja-koolide asutamisel. Kirikute juures, seega kihelkondade kaupa toimus sündide, surmade ja abielude registreerimine.
+
+13 sajandi lõpul oli kihelkondi praeguse Eesti Vabariigi territooriumil 59, 16. sajandi lõpuks 83, 19. sajandi keskel 102, 1917.aastaks 105 (juurde moodustati Häädemeeste 1862.a., Emmaste 1866.a ja Kõpu 1911.a.) ning 1925.aastaks 107 (juurde moodustati 1920.aastal Käru ja Avinurme).
+
+Maakonnad olid jagatud lisaks valdadele ka kihelkondadeks (s.t kihelkonnad moodustasid maakonnad) kuni 1926. aastani. Ametliku jaotusena kihelkonda enam ei eksisteeri aga eesti kultuuri ja ajalukku on see jaotus tihedalt sisse kasvanud ning on valdkondi, kus kihelkond on praeguseni toimiv ja kasutatav mõiste. Eelkõige etnograafia, folkloristika, keeleteadus, millede kogud on süstematiseeritud kihelkondade kaupa. Sageli on kihelkonna nimi ainsaks kogutud ainese või eseme leiukohamääranguks. Seega on kihelkondade piirid neis teadustes eriti olulised, kuna nad on koodiks, võtmeks ainese kogude mõistmiseks. Kihelkondade piirid ei ole kunagi olnud väga teravad, joonelised piirid, nagu seda olid mõisa- või vallapiirid, millega oli seotud teatud ressursside valdamine. Kihelkonnapiiri täpsusastmeks võib pidada küla, see on oluline, milline küla, talu millisesse kihelkonda kuulus aga kust see piir metsas või soos läheb pole nii oluline.
+
+##Üleminek maakond-valdadelt rajoon-külanõukogudele 1945.- 1950.a.
+
+1944 aasta sügisel jäi Eesti territooriumil kehtima sõjaeelne administratiiv-territoriaalne jaotus (11 maakonda ja 248 valda). Vastavalt NSV Liidu Ülemnõukogu Presiidiumi 23. augusti 1944. a seadlusele "Pihkva oblasti moodustamise kohta VNFSV koosseisus" likvideeriti 18. jaanuari 1945.a. Eesti NSV Ülemnõukogu Presiidiumi seadlusega Petseri maakond. 4. mail 1945.a. otsustas ENSV Ülemnõukogu Presiidium luua ENSV-s küla töörahva saadikute nõukogud. Seadlused külanõukogude moodustamise kohta võeti vastu maakondade kaupa 8.augustist-13.septembrini, igas vallas loodi 2-4 külanõukogu (v.a Pakri, Prangli, Vormsi, Kihnu ja Ruhnu vald, kus külanõukogusid ei moodustatud). 1946.a. moodustati iseseisva maakonnana Hiiumaa, 1949.a. Jõgeva ja Jõhvi maakond. 26.septembri 1950.a. seadlusega likvideeriti ENSV jaotus maakondadesse ja valdadesse ning moodustati maarajoonid (39 maarajooni, mis koosnesid 641 külanõukogust).
+
+##Oblast-rajoon-külanõukogu 1952.-1953.a.
+
+3.mai 1952.a. seadlusega jaotati ENSV territoorium kolmeks oblastiks - Tallinn, Tartu ja Pärnu. Tallinna oblastisse kuulusid Harju, Keila, Kose, Rapla, Loksa, Paide, Tapa, Türi, Rakvere, Väike-Maarja, Kiviõli ja Jõhvi rajoon ning Kohtla-Järve ja Narva linn. Tartu oblastisse kuulusid Tartu, Kallaste, Mustvee, Jõgeva, Põltsamaa, Elva, Otepää, Antsla, Valga, Võru, Vastseliina, Räpina ja Põlva rajoon ning Tartu linn. Pärnu oblastisse kuulusid Viljandi, Tõrva, Abja, Kilingi-Nõmme, Suure-Jaani, Vändra, Pärnu, Pärnu-Jaagupi, Lihula, Haapsalu, Kuressaare, Orissaare ja Hiiumaa rajoon ning Pärnu linn. Kuna selline jaotus end siiski ei õigustanud, likvideeriti oblastid 25.aprilli 1953.a. seadlusega
+
+##Rajoon- külanõukogu 1954.-1989.a.
+
+20.märtsil 1954.a. võeti vastu seadlus ENSV rajoonide piiride täpsustamise kohta ja 17. juunil samal aastal seadlus külanõukogude ühendamisest, külanõukogude arvu vähendati 641lt 320le. 1959.a. rahvaloenduse ajal oli ENSVs 27 rajooni ja 320 külanõukogu. 1957.-1962.a. vähendati ENSV rajoonide arvu. 1963.a. alguseks kujunes välja rajoonide jaotus, mis kehtis kuni rajoonidest maakondade moodustamiseni, korrigeeriti vaid vähesel määral piire. 1960.a. toimus ulatuslik külanõukogude piiride muutmine. 1970.a. rahvaloenduse ajal oli Eesti territooriumil 15 rajooni ja 235 külanõukogu. Peale rahvaloendust 1971.- 1972.a. toimus jälle ulatuslik külanõukogude piiride muutmine. 1973.-1978.aastani muudeti rajoonide ja külanõukogude piire vähesel määral. 1975-1976.aastal korrastati vabariigi maa-asulate arvestust ja anti suurematele maa-asulatele aleviku kategooria ning vähendati tunduvalt külade arvu s.t toimus suur külade liitmine. Selle tulemused on toodud 25.veebruari 1977.a. seadluses. 1979.a. rahvaloenduse ajal oli Eesti territooriumil 15 rajooni ja 213 külanõukogu ning 66 külanõukogu piirid olid võrreldes 1970.a. rahvaloenduse aegsetega suuremal või vähemal määral muudetud.
+
+#Maakond-vald pärast 1989.a.
+
+ENSV Ülemnõukogu Presiidiumi seadlus 614 1989.aastast omavalitsusliku haldussüsteemi loomise kohta muuhulgas, et küla, alevi, ja rajoonilise alluvusega linna rahvasaadikute nõukogu tegevuse põhieesmärgiks on vastava esmatasandi omavalitsusliku haldusüksuse asutamine oma territooriumil ning, et maakonnad ja vabariiklikud linnad moodustatakse 1.jaanuarist 1990.a. olemasolevate rajoonide ja vabariikliku alluvusega linnade halduspiirides. 1991.a. võeti vastu Eesti Vabariigi Ülemnõukogu Presiidiumi seadlus kohaliku omavalitsuste terminite ja nimetuste korrastamise kohta. Eesti Vabariik jaguneb Harju- (Harjumaa), Hiiu- (Hiiumaa), Ida-Viru- (Ida-Virumaa), Jõgeva- (Jõgevamaa), Järva- (Järvamaa), Lääne- (Läänemaa), Lääne-Viru- (Lääne-Virumaa), Põlva- (Põlvamaa), Pärnu- (Pärnumaa), Rapla- (Raplamaa), Saare- (Saaremaa), Tartu- (Tartumaa), Valga- (Valgamaa), Viljandi- (Viljandimaa), Võru maakondadeks (Võrumaa). Viimase seadlusega otsustati ka, et kõikjal tuleb "Eesti NSV" asendada sõnadega "Eesti Vabariik". 1990.-1995.aastate jooksul nimetati mitmed külanõukogud ümber (Kaagjärve Karulaks, Riidaja Põdralaks, Otepää Pühajärveks, Ollepa Kabalaks, Alaküla Räpinaks, Mehikoorma Meeksiks, Sommerlingi Reks, Ihamaru Kõllesteks, Esna Karedaks, Pürksi Noarootsiks, Lauka Kõrgessaareks) kinnitati kõikide valdade ja linnade omavalitsuslik staatus ning Nissi vallast eraldus Kernu vald, Orissaare vallast eraldus Pöide vald, Kadrina vallast Saksi, Juuru vallast Kaiu ja Saku vallast Kiili vald. Taastati Torgu vald. 1993.a. otsustati Vabariigi määrusega anda Aegviidu, Järvakandi, Kohila, Kohtla-Nõmme, Lavassaare, Märjamaa, Pärnu-Jaagupi, Tamsalu, Tootsi, Võsu ja Vändra alevile anda valla staatus. Eesti Vabariigi presidendi otsus nr 510 8.märtsist 1995.a. oli kuulutada välja Riigikogus 22. Veebruaril 1995.a. vastu võetud "Eesti territooriumi haldusjaotuse seadus" millega sätestati haldusjaotus ning haldusjaotuse üksuste piiride ja nimede muutmise kord. Viimase seaduse järgi on Eesti Vabariigi territoorium 1995.a. jagatud 15 maakonnaks ja 209 vallaks ning 45 linnaks. 1995.a. 1.juunil muudeti Uulu vald Tahkuranna vallaks.
+
+Leida Lepik, Regio
